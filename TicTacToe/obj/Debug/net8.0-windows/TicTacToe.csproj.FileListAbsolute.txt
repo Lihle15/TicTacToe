@@ -1,0 +1,16 @@
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.exe
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.deps.json
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.runtimeconfig.json
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.dll
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.pdb
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.Form1.resources
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.csproj.GenerateResource.cache
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.AssemblyInfo.cs
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.dll
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\refint\TicTacToe.dll
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.pdb
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.genruntimeconfig.cache
+C:\Users\lihle\source\repos\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\ref\TicTacToe.dll
