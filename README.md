@@ -4,7 +4,7 @@ A simple Tic Tac Toe game built using C# Windows Forms (GUI). This was a self-in
 
 ## 📸 Screenshot
 
-![Lihle's Tic Tac Toe gameplay showing Player X winning, with the score tracker and restart button](screenshots/gameplay.png)
+![Lihle's Tic Tac Toe gameplay showing Player X winning, with the score tracker and restart button](gameplay.png)
 
 ## About
 
