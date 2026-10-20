@@ -2,6 +2,10 @@
 
 A simple Tic Tac Toe game built using C# Windows Forms (GUI). This was a self-initiated project developed in 2023 to explore graphical user interface (GUI) development in C#.
 
+## 📸 Screenshot
+
+![Lihle's Tic Tac Toe gameplay showing Player X winning, with the score tracker and restart button](screenshots/gameplay.png)
+
 ## About
 
 This project was built independently as a way to learn and practice GUI programming in C#. It features a clean and simple interface where two players can take turns playing Tic Tac Toe.
